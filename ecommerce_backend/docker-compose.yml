@@ -1,0 +1,38 @@
+version: '3'
+services:
+
+  dbservice:
+    image: mongo:latest
+    volumes:
+      - ./data:/var/lib/mongo
+    ports:
+      - "27017:27017"
+    networks:
+      - bootapp
+
+
+  productservice:
+    build: ./product-service
+    depends_on:
+      - discovery
+      - dbservice
+    ports:
+      - "7006:8085"
+    networks:
+      - bootapp
+    environment:
+      - spring.data.mongodb.uri=mongodb://dbservice:27017/products
+      - spring.client.service-url.defaultZone=http://discovery:8761/eureka
+
+  discovery:
+    build: ./discovery-service
+    container_name: discovery-service
+    ports:
+      - "8761:8761"
+    networks:
+      - bootapp
+
+networks:
+  bootapp:
+    external: true
+    driver: bridge

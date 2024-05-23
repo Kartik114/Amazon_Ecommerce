@@ -1,0 +1,467 @@
+ [
+  {
+    "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
+    "imageUrl": "https://i5.walmartimages.ca/images/Large/750/280/6000203750280.jpg",
+    "name": "Black and Gray Athletic Cotton Socks - 6 Pairs",
+    "ratings": {
+      "stars": 4.5,
+      "count": 87
+    },
+    "quantity":25,
+    "price": 1090
+
+  },
+  {
+    "id": "15b6fc6f-327a-4ec4-896f-486349e85a3d",
+    "imageUrl": "https://www.dontwasteyourmoney.com/wp-content/uploads/2022/05/amazon-basics-microfiber-cover-indoor-basketball-for-women-basketballs-for-women.jpg",
+    "name": "Intermediate Size Basketball",
+    "ratings": {
+      "stars": 4,
+      "count": 127
+    },
+    "quantity":25,
+    "price": 2095
+
+  },
+  {
+    "id": "83d4ca15-0f35-48f5-b7a3-1ea210004f2e",
+    "imageUrl": "https://m.media-amazon.com/images/I/31cq4yoiS9L.jpg",
+    "name": "Adults Plain Cotton T-Shirt - 2 Pack",
+    "ratings": {
+      "stars": 4.5,
+      "count": 56
+    },
+    "quantity":25,
+    "price": 799
+
+  },
+  {
+    "id": "54e0eccd-8f36-462b-b68a-8182611d9add",
+    "imageUrl": "https://th.bing.com/th/id/OIP.cdmp-32Kbr_DAIM1PSwYAAHaHa?w=1000&h=1000&rs=1&pid=ImgDetMain",
+    "name": "2 Slot Toaster - Black",
+    "ratings": {
+      "stars": 5,
+      "count": 2197
+    },
+    "quantity":25,
+    "price": 1899
+  },
+  {
+    "id": "3ebe75dc-64d2-4137-8860-1f5a963e534b",
+    "imageUrl": "https://i.ebayimg.com/images/g/yiAAAOSw0Wtj9Puv/s-l640.jpg",
+    "name": "6 Piece White Dinner Plate Set",
+    "ratings": {
+      "stars": 4,
+      "count": 37
+    },
+    "quantity":25,
+    "price": 2067
+  },
+  {
+    "id": "8c9c52b5-5a19-4bcb-a5d1-158a74287c53",
+    "imageUrl": "https://m.media-amazon.com/images/I/91hBA6hLfuL._AC_SX522_.jpg",
+    "name": "6-Piece Nonstick, Carbon Steel Oven Bakeware Baking Set",
+    "ratings": {
+      "stars": 4.5,
+      "count": 175
+    },
+    "quantity":25,
+    "price": 3499
+  },
+  {
+    "id": "dd82ca78-a18b-4e2a-9250-31e67412f98d",
+    "imageUrl": "https://th.bing.com/th/id/OIP.TDF1X6w5zaFS1yhuZt53OgHaJ3?w=640&h=853&rs=1&pid=ImgDetMain",
+    "name": "Plain Hooded Fleece Sweatshirt",
+    "ratings": {
+      "stars": 4.5,
+      "count": 317
+    },
+    "quantity":25,
+    "price": 2400
+  },
+  {
+    "id": "77919bbe-0e56-475b-adde-4f24dfed3a04",
+    "imageUrl": "https://m.media-amazon.com/images/I/91AfciW8E2L._AC_SL1500_.jpg",
+    "name": "Luxury Towel Set - Graphite Gray",
+    "ratings": {
+      "stars": 4.5,
+      "count": 144
+    },
+    "quantity":25,
+    "price": 3599
+  },
+  {
+    "id": "3fdfe8d6-9a15-4979-b459-585b0d0545b9",
+    "imageUrl": "https://m.media-amazon.com/images/I/6193Y3HuRDS._AC_SL1500_.jpg",
+    "name": "Liquid Laundry Detergent, 110 Loads, 82.5 Fl Oz",
+    "ratings": {
+      "stars": 4.5,
+      "count": 305
+    },
+    "quantity":25,
+    "price": 2899
+  },
+  {
+    "id": "58b4fc92-e98c-42aa-8c55-b6b79996769a",
+    "imageUrl": "https://m.media-amazon.com/images/I/71W4X9n8jyL._AC_SX695_.jpg",
+    "name": "Waterproof Knit Athletic Sneakers - Gray",
+    "ratings": {
+      "stars": 4,
+      "count": 89
+    },
+    "quantity":25,
+    "price": 3390
+  },
+  {
+    "id": "5968897c-4d27-4872-89f6-5bcb052746d7",
+    "imageUrl": "https://i.pinimg.com/originals/2e/d9/fa/2ed9fad60de440c95ae6b1eb1186e303.jpg",
+    "name": "Women's Chiffon Beachwear Cover Up - Black",
+    "ratings": {
+      "stars": 4.5,
+      "count": 235
+    },
+    "quantity":25,
+    "price": 2070
+  },
+  {
+    "id": "aad29d11-ea98-41ee-9285-b916638cac4a",
+    "imageUrl": "https://th.bing.com/th/id/OIP.s1Sgb-9y8XdMsQw_vsN-WwHaET?w=1500&h=873&rs=1&pid=ImgDetMain",
+    "name": "Round Sunglasses",
+    "ratings": {
+      "stars": 4.5,
+      "count": 30
+    },
+    "quantity":25,
+    "price": 1560
+  },
+  {
+    "id": "04701903-bc79-49c6-bc11-1af7e3651358",
+    "imageUrl": "https://th.bing.com/th/id/OIP.pbl5vRGIiavkZVD_kBIsZQAAAA?rs=1&pid=ImgDetMain",
+    "name": "Women's Two Strap Buckle Sandals - Tan",
+    "ratings": {
+      "stars": 4.5,
+      "count": 562
+    },
+    "quantity":25,
+    "price": 2499
+  },
+  {
+    "id": "901eb2ca-386d-432e-82f0-6fb1ee7bf969",
+    "imageUrl": "https://th.bing.com/th/id/OIP.QF0qyR-0VqqYra4heELmIAHaHK?w=980&h=948&rs=1&pid=ImgDetMain",
+    "name": "Blackout Curtains Set 4-Pack - Beige",
+    "ratings": {
+      "stars": 4.5,
+      "count": 232
+    },
+    "quantity":25,
+    "price": 4599
+  },
+  {
+    "id": "82bb68d7-ebc9-476a-989c-c78a40ee5cd9",
+    "imageUrl": "https://i.pinimg.com/736x/1f/17/a9/1f17a996c348cff7b9ffee6dfbbae509.jpg",
+    "name": "Men's Slim-Fit Summer Shorts",
+    "ratings": {
+      "stars": 4,
+      "count": 160
+    },
+    "quantity":25,
+    "price": 1699
+  },
+  {
+    "id": "c2a82c5e-aff4-435f-9975-517cfaba2ece",
+    "imageUrl": "https://m.media-amazon.com/images/I/812C5q3i5+L._AC_UL400_.jpg",
+    "name": "Electric Glass and Steel Hot Tea Water Kettle - 1.7-Liter",
+    "ratings": {
+      "stars": 5,
+      "count": 846
+    },
+    "quantity":25,
+    "price": 3074
+  },
+  {
+    "id": "6b07d4e7-f540-454e-8a1e-363f25dbae7d",
+    "imageUrl": "https://img.huffingtonpost.com/asset/5a8b35b72000004d00eaf55d.jpeg?ops=scalefit_960_noupscale",
+    "name": "Ultra Soft Tissue 2-Ply - 18 Box",
+    "ratings": {
+      "stars": 4,
+      "count": 99
+    },
+    "quantity":25,
+    "price": 2374
+  },
+  {
+    "id": "a82c6bac-3067-4e68-a5ba-d827ac0be010",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Klvu-uujL.jpg",
+    "name": "Straw Lifeguard Sun Hat",
+    "ratings": {
+      "stars": 4,
+      "count": 215
+    },
+    "quantity":25,
+    "price": 2200
+  },
+  {
+    "id": "e4f64a65-1377-42bc-89a5-e572d19252e2",
+    "imageUrl": "https://m.media-amazon.com/images/I/61tZl7usP2L._AC_SL1500_.jpg",
+    "name": "Sterling Silver Sky Flower Stud Earrings",
+    "ratings": {
+      "stars": 4.5,
+      "count": 52
+    },
+    "quantity":25,
+    "price": 1799
+  },
+  {
+    "id": "b0f17cc5-8b40-4ca5-9142-b61fe3d98c85",
+    "imageUrl": "https://m.media-amazon.com/images/I/61ZulFNQeLL._AC_SR736,920_.jpg",
+    "name": "Women's Stretch Popover Hoodie",
+    "ratings": {
+      "stars": 4.5,
+      "count": 2465
+    },
+    "quantity":25,
+    "price": 1374
+  },
+  {
+    "id": "a93a101d-79ef-4cf3-a6cf-6dbe532a1b4a",
+    "imageUrl": "https://www.westelm.com.au/site/WE/Product%20Images/organic-luxe-fibrosoft-bath-mats-b2609-202115-0066-organic-luxury-fibrosoft-bath-mats-z.jpg?resizeid=54&resizeh=960&resizew=960",
+    "name": "Bathroom Bath Rug Mat 20 x 31 Inch - Grey",
+    "ratings": {
+      "stars": 4.5,
+      "count": 119
+    },
+    "quantity":25,
+    "price": 1250
+  },
+  {
+    "id": "4f4fbcc2-4e72-45cc-935c-9e13d79cc57f",
+    "imageUrl": "https://m.media-amazon.com/images/I/61CROuWRV2L.jpg",
+    "name": "Women's Knit Ballet Flat",
+    "ratings": {
+      "stars": 4,
+      "count": 326
+    },
+    "quantity":25,
+    "price": 2640
+  },
+  {
+    "id": "8b5a2ee1-6055-422a-a666-b34ba28b76d4",
+    "imageUrl": "https://m.media-amazon.com/images/I/91ASTZm6E7L._AC_UL960_QL65_.jpg",
+    "name": "Men's Regular-Fit Quick-Dry Golf Polo Shirt",
+    "ratings": {
+      "stars": 4.5,
+      "count": 2556
+    },
+    "quantity":25,
+    "price": 1599
+  },
+  {
+    "id": "b86ddc8b-3501-4b17-9889-a3bad6fb585f",
+    "imageUrl": "https://th.bing.com/th/id/OIP.i63plSA5FLO9gSjcuPEFWwAAAA?w=298&h=487&rs=1&pid=ImgDetMain",
+    "name": "Trash Can with Foot Pedal - Brushed Stainless Steel",
+    "ratings": {
+      "stars": 4.5,
+      "count": 2286
+    },
+    "quantity":25,
+    "price": 8300
+  },
+  {
+    "id": "19c6a64a-5463-4d45-9af8-e41140a4100c",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/713R3yy6WvL._AC_SL1500_.jpg",
+    "name": "Duvet Cover Set with Zipper Closure",
+    "ratings": {
+      "stars": 4,
+      "count": 456
+    },
+    "quantity":25,
+    "price": 2399
+  },
+  {
+    "id": "d2785924-743d-49b3-8f03-ec258e640503",
+    "imageUrl": "https://th.bing.com/th/id/OIP.8GJR0qBj-OfQ8VdqN2Et9gHaHa?w=1500&h=1500&rs=1&pid=ImgDetMain",
+    "name": "Women's Chunky Cable Beanie - Gray",
+    "ratings": {
+      "stars": 5,
+      "count": 83
+    },
+    "quantity":25,
+    "price": 1250
+  },
+  {
+    "id": "ee1f7c56-f977-40a4-9642-12ba5072e2b0",
+    "imageUrl": "https://www.coolibar.com/media/catalog/product/cache/92edcbf36c6694c3f086fb56b38260ee/1/0/10603-230-1000-1-coolibar-avalos-travel-pant-upf-50.jpg",
+    "name": "Men's Classic-fit Pleated Chino Pants",
+    "ratings": {
+      "stars": 4.5,
+      "count": 9017
+    },
+    "quantity":25,
+    "price": 2290
+  },
+  {
+    "id": "1c079479-8586-494f-ab53-219325432536",
+    "imageUrl": "https://m.media-amazon.com/images/I/81CUqwmw7aL._AC_UL1500_.jpg",
+    "name": "Men's Athletic Sneaker",
+    "ratings": {
+      "stars": 4,
+      "count": 229
+    },
+    "quantity":25,
+    "price": 3890
+  },
+  {
+    "id": "4df68c27-fd59-4a6a-bbd1-e754ddb6d53c",
+    "imageUrl": "https://smhttp-ssl-47739.nexcesscdn.net/media/catalog/product/cache/1/small_image/392x200/9df78eab33525d08d6e5fb8d27136e95/a/v/av5153f.jpg",
+    "name": "Men's Navigator Sunglasses Pilot",
+    "ratings": {
+      "stars": 3.5,
+      "count": 42
+    },
+    "quantity":25,
+    "price": 1690
+  },
+  {
+    "id": "4e37dd03-3b23-4bc6-9ff8-44e112a92c64",
+    "imageUrl": "https://th.bing.com/th/id/OIP.PAhk8aT3n2ZfsqYyRetJqwHaDw?w=1200&h=609&rs=1&pid=ImgDetMain",
+    "name": "Non-Stick Cookware Set, Pots, Pans and Utensils - 15 Pieces",
+    "ratings": {
+      "stars": 4.5,
+      "count": 511
+    },
+    "quantity":25,
+    "price": 6797
+  },
+  {
+    "id": "a434b69f-1bc1-482d-9ce7-cd7f4a66ce8d",
+    "imageUrl": "https://th.bing.com/th/id/OIP.z8PaXq01jhLqu-50KM7yVAAAAA?rs=1&pid=ImgDetMain",
+    "name": "Vanity Mirror with Heavy Base - Chrome",
+    "ratings": {
+      "stars": 4.5,
+      "count": 130
+    },
+    "quantity":25,
+    "price": 1649
+  },
+  {
+    "id": "a45cfa0a-66d6-4dc7-9475-e2b01595f7d7",
+    "imageUrl": "https://th.bing.com/th/id/OIP.Oqk2G2ou72hr3f8w2MA10wHaR7?w=522&h=1264&rs=1&pid=ImgDetMain",
+    "name": "Women's Fleece Jogger Sweatpant",
+    "ratings": {
+      "stars": 4.5,
+      "count": 248
+    },
+    "quantity":25,
+    "price": 2400
+  },
+  {
+    "id": "d339adf3-e004-4c20-a120-40e8874c66cb",
+    "imageUrl": "https://th.bing.com/th/id/OIP.JOTQE1vAlJW5QT5JWZpoBQHaHa?pid=ImgDet&w=173&h=173&c=7&dpr=1.5",
+    "name": "Double Oval Twist French Wire Earrings - Gold",
+    "ratings": {
+      "stars": 4.5,
+      "count": 117
+    },
+    "quantity":25,
+    "price": 2400
+  },
+  {
+    "id": "d37a651a-d501-483b-aae6-a9659b0757a0",
+    "imageUrl": "https://th.bing.com/th/id/OIP.Fz5W7eLPcH2SOLlTTPUCKgAAAA?w=450&h=450&rs=1&pid=ImgDetMain",
+    "name": "Round Airtight Food Storage Containers - 5 Piece",
+    "ratings": {
+      "stars": 4,
+      "count": 126
+    },
+    "quantity":25,
+    "price": 2899
+  },
+  {
+    "id": "0d7f9afa-2efe-4fd9-b0fd-ba5663e0a524",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81BwWF7hi%2BL._AC_SL1500_.jpg",
+    "name": "Coffeemaker with Glass Carafe and Reusable Filter - 25 Oz, Black",
+    "ratings": {
+      "stars": 4.5,
+      "count": 1211
+    },
+    "quantity":25,
+    "price": 2250
+  },
+  {
+    "id": "02e3a47e-dd68-467e-9f71-8bf6f723fdae",
+    "imageUrl": "https://th.bing.com/th/id/OIP.AhU-vuhFAH3-d_4KaBvATQHaHa?w=1500&h=1500&rs=1&pid=ImgDetMain",
+    "name": "Blackout Curtains Set 42 x 84-Inch - Black, 2 Panels",
+    "ratings": {
+      "stars": 4.5,
+      "count": 363
+    },
+    "quantity":25,
+    "price": 3099
+  },
+  {
+    "id": "8a53b080-6d40-4a65-ab26-b24ecf700bce",
+    "imageUrl": "https://i.pinimg.com/originals/8f/ec/21/8fec2144c470e311d96434e227514e0e.jpg",
+    "name": "100% Cotton Bath Towels - 2 Pack, Light Teal",
+    "ratings": {
+      "stars": 4.5,
+      "count": 93
+    },
+    "quantity":25,
+    "price": 2110
+  },
+  {
+    "id": "10ed8504-57db-433c-b0a3-fc71a35c88a1",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81buDn3p9%2BL._UL1500_.jpg",
+    "name": "Waterproof Knit Athletic Sneakers - Pink",
+    "ratings": {
+      "stars": 4,
+      "count": 89
+    },
+    "quantity":25,
+    "price": 3390
+  },
+  {
+    "id": "77a845b1-16ed-4eac-bdf9-5b591882113d",
+    "imageUrl": "https://www.blenderreviews.us/wp-content/uploads/Vitamix-5200-silver.jpg",
+    "name": "Countertop Blender - 64oz, 1400 Watts",
+    "ratings": {
+      "stars": 4,
+      "count": 3
+    },
+    "quantity":25,
+    "price": 10747
+  },
+  {
+    "id": "36c64692-677f-4f58-b5ec-0dc2cf109e27",
+    "imageUrl": "https://th.bing.com/th/id/OIP.6tETwtLQBZE3bzFrk0hcQwAAAA?w=450&h=450&rs=1&pid=ImgDetMain",
+    "name": "10-Piece Mixing Bowl Set with Lids - Floral",
+    "ratings": {
+      "stars": 5,
+      "count": 679
+    },
+    "quantity":25,
+    "price": 3899
+  },
+  {
+    "id": "aaa65ef3-8d6f-4eb3-bc9b-a6ea49047d8f",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/318Onhmh0zL.jpg",
+    "name": "2-Ply Kitchen Paper Towels - 30 Pack",
+    "ratings": {
+      "stars": 4.5,
+      "count": 1045
+    },
+    "quantity":25,
+    "price": 5799
+  },
+  {
+    "id": "bc2847e9-5323-403f-b7cf-57fde044a955",
+    "imageUrl": "https://i.pinimg.com/474x/c5/98/ff/c598ff2499982a1145c3b3502944a8bc.jpg",
+    "name": "Men's Full-Zip Hooded Fleece Sweatshirt",
+    "ratings": {
+      "stars": 4.5,
+      "count": 3157
+    },
+    "quantity":25,
+    "price": 2400
+  }
+]
